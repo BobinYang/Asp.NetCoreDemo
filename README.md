@@ -1,4 +1,10 @@
-## Asp .Net Core 3.x
+## ASP.NET Core 3.x 入门视频（完结）视频 源代码
+https://www.bilibili.com/video/av65313713
+
+## 以下资源来源：
+github: https://github.com/leezhuang96/Asp.NetCoreDemo
+
+blog: https://leezhuang96.github.io/categories/csharp/
 
 ### Asp .Net Core 
 
