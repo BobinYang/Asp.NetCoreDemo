@@ -18,6 +18,11 @@ namespace AspCoreDemo
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                //.ConfigureAppConfiguration((context, configbuilder) =>
+                //{
+                //    configbuilder.Sources.Clear();
+                //    configbuilder.AddJsonFile("aa.json");
+                //})
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
