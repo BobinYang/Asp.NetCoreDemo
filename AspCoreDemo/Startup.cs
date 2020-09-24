@@ -20,6 +20,7 @@ namespace AspCoreDemo
         public Startup(IConfiguration configuration)
         {
             this.configuration = configuration;
+            //var BoldDepartmentEmployeeCount =configurationl[ "AspCoreDemo:BoldDepartmentEmployeeCount"];
         }
 
         // register service
